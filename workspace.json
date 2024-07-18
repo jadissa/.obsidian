@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "c76e6a97dadbf642",
+    "type": "split",
+    "children": [
+      {
+        "id": "629fd6b5882ad910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9b8ceae36c78c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05b90d9ba47fd006",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0621ae1c7cac6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b71a384eebec9e5",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b36c229d3b54f2e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56f53d2a9d406a52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a8be7ef6b65c151",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d3ea33aca6b1abf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6009fc60eca10666",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fb05a2d8e62fa03",
+        "type": "tabs",
+        "dimension": 31.674208144796378,
+        "children": [
+          {
+            "id": "c97023a6d291f713",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e4916ea3881a41b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WoW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a52363b35f2d1d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f59f27f01b7cd93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b081f6b3c1205d36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes.md"
+              }
+            }
+          },
+          {
+            "id": "b7d8b0b5269ad66b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0da58febd0b2ce18",
+        "type": "tabs",
+        "dimension": 43.21266968325792,
+        "children": [
+          {
+            "id": "18ac3a0cf90f6c5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6aa6c01a7224260d",
+        "type": "tabs",
+        "dimension": 25.1131221719457,
+        "children": [
+          {
+            "id": "2fa02794323d7e34",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 606.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mathpad:Open Mathpad": false
+    }
+  },
+  "active": "e9b8ceae36c78c4d",
+  "lastOpenFiles": [
+    "Computer.md",
+    "Notes.md",
+    "WoW.md",
+    "Cata.md",
+    "WoTLK.md",
+    "WoW-People.md",
+    "WoW-Guild-Names.md",
+    "WoW-Scripts.md",
+    "WoW-Project-Creation.md",
+    "Work.md",
+    "Regular-Expression.md",
+    "Programming.md",
+    "SSH.md",
+    "ASCII.md",
+    "WireFrame.md",
+    "Programming-Ideas.md",
+    "PHP.md",
+    "Markdown.md",
+    "Lua.md",
+    "Makeup.md",
+    "Housing-ElPaso.md",
+    "Housing.md",
+    "Family.md",
+    "Education.md",
+    "Communication.md",
+    "Phone.md",
+    "regular-expressions-cheat-sheet-v2.png",
+    "setup.sh",
+    "Screenshot 2024-07-16 at 9.07.04 PM.png",
+    "assets",
+    "1618016302269.jpeg",
+    "Screenshot 2024-07-16 at 8.59.11 PM.png"
+  ]
+}
