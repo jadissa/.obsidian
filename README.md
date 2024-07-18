@@ -11,7 +11,7 @@ In case my settings need a restore
 obsidian
 
 ## How
-`git clone YOUR_OBSIDIAN_DIR/.obsidian`
+`git clone https://github.com/jadissa/.obsidian.git YOUR_OBSIDIAN_DIR/.obsidian`
 
 ## Platforms
 Any Mac system that has obsidian installed
