@@ -11,7 +11,11 @@ In case my settings need a restore
 obsidian
 
 ## How
-`git clone https://github.com/jadissa/.obsidian.git YOUR_OBSIDIAN_DIR/.obsidian`
+```
+git clone https://github.com/jadissa/.obsidian.git YOUR_OBSIDIAN_DIR/.obsidian
+ln -sf ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/Server/.obsidian ~/Library/Mobile\ Documents/com\~apple\~TextEdit/Documents/notes/.obsidians
+```
+
 
 ## Platforms
 Any Mac system that has obsidian installed
